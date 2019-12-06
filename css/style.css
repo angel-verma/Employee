@@ -1,0 +1,93 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(img/bnet-bg.jpg);
+}
+/* Start Form Styling index.php*/
+.block{
+	width:600px;
+	height:580px;
+	background-color: #2a3943;
+	margin:auto;
+	position:relative;
+	top: 60px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #000;
+}
+.block h1 {
+	color: #fff;
+}
+.inner{
+	height:auto;
+	width:500px;
+	border-radius:4px;
+	position:absolute;
+	top:60px;
+	left:50px;
+}
+.tab-width {
+	width: 248px;
+}
+.tab-content h1 {
+	color: #fff;
+}
+.btn-width {
+	width: 500px;
+	height: 60px;
+}
+/*Sign up*/
+.text-input {
+	width: 244px;
+}
+.pull {
+	position: absolute;
+	left: 250px;
+	top: 156px;
+}
+/* End Form Styling index.php*/
+
+/*Welcome Admin Section*/
+.wel-admin-section {
+	box-shadow: 0 0 10px #000;
+	height: 450px;
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+/*End Welcome Admin Section
+
+/*Add customer section*/
+.add-cust-section {
+	box-shadow: 0 0 10px #000;
+	height: auto;
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 70px;
+}
+.inner-section {
+	width: 600px;
+}
+/*End Add customer section*/
+
+.error-btn {
+	margin-left: 500px;
+}
+/* Veiw customer profile */
+.block-vcp {
+	width:600px;
+	height:500px;
+	background-color: #2a3943;
+	margin:auto;
+	position:relative;
+	top: 60px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #000;
+}
+.block-vcp h1 {
+	color: #fff;
+}
+/* End View customer profile */
